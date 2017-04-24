@@ -8,7 +8,8 @@ To run the application, please log into your virtual machine and place the appli
 
 Then:
 
-`
+```
+
 # Enter the psql CLI
 psql
 
@@ -26,4 +27,5 @@ psql$ \i tournament.sql;
 
 # Run Python test files
 python tournament_test.py 
-`
+
+```
